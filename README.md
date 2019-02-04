@@ -8,7 +8,7 @@
 
 ### Install as a Custom Theme
 
-[![Click here to install](https://dankneon.com/assets/install_button.png)](http://facebook.github.io/react-devtools/?theme=%7B"displayName":"Dank Neon","base00":"#191b2a","base01":"#1d1f30","base02":"#2a2d46","base03":"#3c4367","base04":"#a5abca","base05":"#eff0f6","special00":"#39ffba","special01":"#ffee7a","special02":"#01f7f7","special03":"#ff476e","special04":"#236e25","special05":"#f1b3f1","special06":"#ff476e","special07":"#858db7","state00":"#94bfff","state01":"#3c4367","state02":"#1d1f30","state03":"#2a2d46","state04":"#ffca7a","state05":"#1d1f30","state06":"#2a2d46"%7D)
+[![Click here to install](https://dankneon.com/assets/install_button.png)](http://facebook.github.io/react-devtools/?theme=%7B%22displayName%22:%22Dank%20Neon%22,%22base00%22:%22#191b2a%22,%22base01%22:%22#1d1f30%22,%22base02%22:%22#2a2d46%22,%22base03%22:%22#3c4367%22,%22base04%22:%22#a5abca%22,%22base05%22:%22#eff0f6%22,%22special00%22:%22#39ffba%22,%22special01%22:%22#ffee7a%22,%22special02%22:%22#01f7f7%22,%22special03%22:%22#ff476e%22,%22special04%22:%22#236e25%22,%22special05%22:%22#f1b3f1%22,%22special06%22:%22#ff476e%22,%22special07%22:%22#858db7%22,%22state00%22:%22#94bfff%22,%22state01%22:%22#3c4367%22,%22state02%22:%22#1d1f30%22,%22state03%22:%22#2a2d46%22,%22state04%22:%22#ffca7a%22,%22state05%22:%22#1d1f30%22,%22state06%22:%22#2a2d46%22%7D)
 
 ## Team
 
